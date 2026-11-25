@@ -33,6 +33,8 @@
 
 **[FNGameProj 16.40](https://github.com/Zynifier/FNGameProj-16.40)**
 
+**[FNGameProj 17.50](https://github.com/00Jacee/FNGameProj-Eon)**
+
 **[FNGameProj 23.00](https://mega.nz/file/CxhSnDaa#0nz4iK8PSqegBJVwAcnvjGQOfyOM3jiejvVvRrOnAnY)**
 
 and ***[UnrealVersionSelector](https://mega.nz/folder/nsQDDDKI#bDRAD0BsFvWjP68X1Tvf9A)*** can be needed
